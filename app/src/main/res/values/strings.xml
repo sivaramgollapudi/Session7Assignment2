@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Display Contacts Intent</string>
+    <string name="show_contacts">Show Contacts</string>
+</resources>
